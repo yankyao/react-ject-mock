@@ -1,0 +1,8 @@
+.AsyncBlock {
+  width: 200px;
+  height: 200px;
+  background-color: azure;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
