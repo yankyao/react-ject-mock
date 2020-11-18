@@ -67,3 +67,10 @@ yarn add typescript @types/node @types/react @types/react-dom @types/jest @babel
 
 7. jest测试
 
+8. commit方式
+
+```
+git add .
+cz
+```
+
