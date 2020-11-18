@@ -24,7 +24,7 @@ class Index extends React.Component {
       <div className="App">
         <button onClick={this.handleClick}>ClickBtn</button>
         {this.state.asyncBlock}
-        <Suspense fallback={<div>Loading...</div>}>
+        <Suspense fallback={<div>Loading.</div>}>
           <LazyBlock />
         </Suspense>
       </div>
